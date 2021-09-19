@@ -1,0 +1,3 @@
+Model_ID,Model_path,Weights_path,MSE,R2_Score
+1,./models/mlp_model1/mlp_model.h5,./models/mlp_model1/mlp_cp.ckpt,22799556.489850674,0.8404062316972841
+2,./models/mlp_model2/mlp_model.h5,./models/mlp_model2/mlp_cp.ckpt,21305968.759901766,0.8508611409504249
