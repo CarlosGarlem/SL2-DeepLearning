@@ -1,3 +1,8 @@
 .ipynb_checkpoints
 .vscode
+MLP/models/mlp_model1/
 CNN/input/
+CNN/models/cnn_model2/
+CNN/models/cnn_model2/
+CNN/models/cnn_model3/
+CNN/__pycache__

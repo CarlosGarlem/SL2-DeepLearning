@@ -1,2 +1,5 @@
 Model_ID,Model_path,Weights_path,Accuracy
 1,./models/cnn_model1/cnn_model.h5,./models/cnn_model1/weights_cp.ckpt,0.6566125154495239
+2,./models/cnn_model2/cnn_model.h5,./models/cnn_model2/weights_cp.ckpt,0.7703016400337219
+3,./models/cnn_model3/cnn_model.h5,./models/cnn_model3/weights_cp.ckpt,0.8468677401542664
+4,./models/cnn_model4/cnn_model.h5,./models/cnn_model4/weights_cp.ckpt,0.8561484813690186
