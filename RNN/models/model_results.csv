@@ -1,0 +1,4 @@
+Model_ID,Model_path,Weights_path,Accuracy
+1,./models/rnn_model1/rnn_model.h5,./models/rnn_model1/weights_cp.ckpt,0.903073609
+2,./models/rnn_model2/rnn_model.h5,./models/rnn_model2/weights_cp.ckpt,0.485821744
+3,./models/rnn_model3/rnn_model.h5,./models/rnn_model3/weights_cp.ckpt,0.9352655567714586
