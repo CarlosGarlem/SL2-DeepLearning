@@ -21,3 +21,6 @@ Los archivos del proyecto se encuentran distribuidos de la siguiente manera:
 - **MLP**. https://www.kaggle.com/mirichoi0218/insurance
 - **CNN**. https://www.kaggle.com/asdasdasasdas/garbage-classification
 - **RNN**. Dataset presente en carpeta de Google Drive privada compartida por el docente
+
+
+**Nota**. Por espacio no todos los modelos listados en la bitácora fueron subidos al repositorio, estos existen en copia local más no fue posible subirlos por lo cual no se conservan todos los modelos experimentales en el repositorio
